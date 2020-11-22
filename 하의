@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <title>AJEONG이의 옷장</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html">하의</a></h1>
+  <ul>
+    <li><a href="상의"> 상의</a></li>
+    <li><a href="하의"> 하의</a></li>
+    <li><a href="겉옷"> 겉옷</a></li>
+  </ul>
+  <h2>기부안내</h2>
+  <br><img src="flower.jpg" width="100%">
+  <br>이곳은 옷을 파는 상점입니다.
+</body>
+</html>
